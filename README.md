@@ -1,4 +1,4 @@
-# Introduce yourself:
+# Introduction:
 I’m Thanh Nhan, a final-year Business Analytics student at the University of Economics – Danang. I have a strong interest in Data Analytics, Machine Learning, and Artificial Intelligence, with hands-on experience in Python, SQL, and Power BI. I’m passionate about leveraging data-driven insights to solve real-world business challenges and continuously expanding my skills in applied analytics.
 
 ---
